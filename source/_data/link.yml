@@ -2,8 +2,8 @@
 # 2. 確保你的網站是 https
 # 3. 修改 source/_data/link.yml
 # 4. 按要求新增內容
-#     - name: 博客名
-#       link: 博客地址
+#     - name: 洛
+#       link: https://xssz.ishenlan.top/
 #       avatar: 博客頭像
 #       descr: 博客描述
 # 5. 發起 Pull requests ，合併到 butterfly.js.org 倉庫
